@@ -64,3 +64,35 @@ body{
     height: 180px;
     width: 400px;
 }
+.tabs-header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 900;
+    font-size: 25px;
+    padding-top: 20px;
+}
+.tabs{
+    display: flex;
+    gap: 15px;
+    align-items: center;
+    justify-content: center;
+    padding-top: 30px;
+}
+.tab{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 5px;
+    
+}
+.tab-img{
+    width: 200px;
+    height: 200px;
+    border: solid #3882f6;
+    border-radius: 10px;
+}
+.tab-text{
+    width: 200px;
+    text-align: center;
+}
