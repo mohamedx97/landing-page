@@ -114,3 +114,22 @@ body{
     width: 45%;
     text-align: right;
 }
+.action-tab{
+    background-color: #3882f6;
+    width: 900px;
+    align-self: center;
+    margin-top: 15px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 20px;
+    color: white;
+}
+.action-btn{
+    background-color: #3882f6;
+    border: solid 1px white;
+    color: white;
+    border-radius: 5px;
+    padding: 5px 15px;
+}
